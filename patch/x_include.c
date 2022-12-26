@@ -1,0 +1,10 @@
+/* Patches */
+#include "alpha.c"
+#include "boxdraw.c"
+#include "fixkeyboardinput.c"
+#include "font2.c"
+#include "fullscreen_x.c"
+#include "invert.c"
+#include "openurlonclick.c"
+#include "sixel_x.c"
+#include "xresources.c"
